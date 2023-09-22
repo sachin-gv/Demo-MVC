@@ -1,0 +1,7 @@
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\Demo-MVC-APP.exe
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\appsettings.Development.json
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\appsettings.json
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\Demo-MVC-APP.dll
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\Demo-MVC-APP.deps.json
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\Demo-MVC-APP.runtimeconfig.json
+C:\Users\615549505\source\repos\Demo-MVC-APP\publish\Demo-MVC-APP.pdb
